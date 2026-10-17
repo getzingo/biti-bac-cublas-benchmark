@@ -1,0 +1,74 @@
+{
+  "0": {
+    "device": "MIG-ad38fc07-65f0-5bfd-be1a-4d1e3e0f4bce",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "tensor_op",
+      "precision": "fp16",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "1": {
+    "device": "MIG-962dc9de-be31-50c6-9fab-c1d66b29d202",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "tensor_op",
+      "precision": "fp16",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "2": {
+    "device": "MIG-3ea8c143-76a3-5e14-b029-8f0e376fb1cc",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "tensor_op",
+      "precision": "fp16",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "3": {
+    "device": "MIG-93489b21-a8c8-5576-bba2-4dd96fd442f6",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "tensor_op",
+      "precision": "fp16",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  }
+}

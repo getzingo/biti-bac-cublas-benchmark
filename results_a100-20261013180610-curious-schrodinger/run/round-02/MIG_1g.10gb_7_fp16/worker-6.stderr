@@ -1,0 +1,2 @@
+worker 6 on NVIDIA A100 80GB PCIe MIG 1g.10gb (14 SMs)
+worker 6 done (500 runs)

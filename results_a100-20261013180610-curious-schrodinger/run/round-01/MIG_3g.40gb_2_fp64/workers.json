@@ -1,0 +1,38 @@
+{
+  "0": {
+    "device": "MIG-d64c9539-0604-5ea2-a7fc-a2b0e7d57e59",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp64",
+      "accumulation": "fp64",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 42,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "1": {
+    "device": "MIG-d1518c43-f3b7-558c-a74c-a7c908fa3f58",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp64",
+      "accumulation": "fp64",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 42,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  }
+}

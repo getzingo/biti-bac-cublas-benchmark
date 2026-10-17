@@ -1,0 +1,20 @@
+{
+  "0": {
+    "device": "MIG-d64c9539-0604-5ea2-a7fc-a2b0e7d57e59",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "tensor_op",
+      "precision": "fp16",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 42,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  }
+}

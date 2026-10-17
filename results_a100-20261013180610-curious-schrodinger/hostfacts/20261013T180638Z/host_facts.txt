@@ -1,0 +1,11 @@
+# host facts (2026-10-13T18:06:40Z) tag='curious-schrodinger-69.19.140.121'
+[time] {'utc': '2026-10-13T18:06:40Z', 'unix': 1791914800, 'mono_raw_s': 268.652903804, 'timezone': 'Etc/UTC'}
+[identity] OK
+[os] OK
+[cpu] OK AMD EPYC 7763 64-Core Processor x28 1 governor=None
+[memory] OK
+[disks] OK
+[network] OK
+[public_ip] OK 69.19.140.121 | Montréal, Quebec, CA | org=AS214438 NexGen Cloud Ltd | tz=America/Toronto
+[gpu] OK NVIDIA A100 80GB PCIe driver=570.195.03 cc=8.0 pl=300.00 W ecc=Enabled persist=Enabled pcie=4x16
+[python] OK

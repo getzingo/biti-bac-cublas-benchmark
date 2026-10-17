@@ -1,0 +1,74 @@
+{
+  "0": {
+    "device": "0",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp64",
+      "accumulation": "fp64",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 108,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "1": {
+    "device": "0",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp64",
+      "accumulation": "fp64",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 108,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "2": {
+    "device": "0",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp64",
+      "accumulation": "fp64",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 108,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "3": {
+    "device": "0",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp64",
+      "accumulation": "fp64",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 108,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  }
+}

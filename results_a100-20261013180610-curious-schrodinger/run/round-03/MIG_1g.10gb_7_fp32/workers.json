@@ -1,0 +1,128 @@
+{
+  "0": {
+    "device": "MIG-09d54282-2576-5eb7-bade-9a20fbb12f39",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "1": {
+    "device": "MIG-0bfb8380-dde7-51a1-90bb-d77fddd49d2e",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "2": {
+    "device": "MIG-ec390db9-ea9b-577d-944e-30b937dfdefc",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "3": {
+    "device": "MIG-e05020d3-6643-5a89-979d-fa81f96d0b82",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "4": {
+    "device": "MIG-e2f802fd-f258-5403-9bd9-c6c4104d4385",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "5": {
+    "device": "MIG-08d24cf4-a4de-5eff-8887-d58bfdccd06a",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  },
+  "6": {
+    "device": "MIG-7bc00e13-f31b-534f-9eec-a59b3f521ffd",
+    "meta": {
+      "protocol": 2,
+      "math_mode": "pedantic",
+      "precision": "fp32",
+      "accumulation": "fp32",
+      "cublas_version": 120804,
+      "cuda_runtime": 12080,
+      "cuda_driver": 12080,
+      "sms": 14,
+      "layout": "column-major",
+      "transpose": "NN",
+      "alpha": 1,
+      "beta": 0,
+      "input": "zero"
+    }
+  }
+}

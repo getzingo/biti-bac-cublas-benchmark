@@ -1,0 +1,2 @@
+worker 4 on NVIDIA A100 80GB PCIe (108 SMs)
+worker 4 done (500 runs)

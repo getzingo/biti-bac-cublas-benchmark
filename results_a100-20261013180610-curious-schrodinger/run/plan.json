@@ -1,0 +1,1010 @@
+[
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp64",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp16",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp32",
+    "round": 1,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp16",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp64",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp32",
+    "round": 2,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 2,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "TS",
+    "profile": "full",
+    "n": 7,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 1,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MPS",
+    "profile": "full",
+    "n": 4,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.10gb",
+    "n": 7,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "1g.20gb",
+    "n": 4,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp32",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 2,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp64",
+    "round": 3,
+    "done": true
+  },
+  {
+    "mechanism": "MIG",
+    "profile": "3g.40gb",
+    "n": 1,
+    "precision": "fp16",
+    "round": 3,
+    "done": true
+  }
+]

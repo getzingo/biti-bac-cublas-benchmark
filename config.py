@@ -80,12 +80,8 @@ class Config:
   # dcgm interval = 10 Hz
   sample_interval_s: float = 0.1
 
-  # validity constraints
-  min_samples: int = 10
-  min_coverage: float = 0.95
+  # widest gap between two energy readings that is still interpolated
   max_gap_s: float = 0.250
-  median_interval_limit_s: float = 0.110
-  p95_interval_limit_s: float = 0.150
 
   @property
   def flops_per_call(self):
